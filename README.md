@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
