@@ -16,6 +16,7 @@
 | [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
