@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1078-remove-outermost-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
