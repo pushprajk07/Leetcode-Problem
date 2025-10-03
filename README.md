@@ -11,6 +11,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
