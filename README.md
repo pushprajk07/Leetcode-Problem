@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0125-valid-palindrome) |
+| [0812-rotate-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
 ## Array
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
