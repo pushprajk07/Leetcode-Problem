@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0125-valid-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
@@ -33,6 +34,7 @@
 | [0037-sudoku-solver](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,10 +52,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -74,4 +78,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
