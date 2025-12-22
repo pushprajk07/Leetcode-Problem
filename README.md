@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -49,11 +50,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
@@ -96,10 +99,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0237-delete-node-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
