@@ -24,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -49,11 +50,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -84,12 +87,26 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0237-delete-node-in-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
