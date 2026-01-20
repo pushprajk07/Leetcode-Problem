@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0812-rotate-string) |
@@ -77,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0067-add-binary) |
 | [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -114,4 +116,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
