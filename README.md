@@ -69,6 +69,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
@@ -124,4 +125,16 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
