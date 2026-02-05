@@ -76,10 +76,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0441-arranging-coins](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0441-arranging-coins) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0067-add-binary) |
+| [0441-arranging-coins](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0441-arranging-coins) |
 | [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
