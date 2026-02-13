@@ -23,6 +23,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0441-arranging-coins](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0441-arranging-coins) |
 ## Math
 |  |
