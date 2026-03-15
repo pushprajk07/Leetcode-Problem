@@ -27,6 +27,7 @@
 | [0074-search-a-2d-matrix](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pushprajk07/Leetcode-Problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -41,6 +42,7 @@
 | [0037-sudoku-solver](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -63,6 +65,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0912-sort-an-array) |
 ## Counting
@@ -81,11 +84,13 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0441-arranging-coins) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0441-arranging-coins) |
 | [2032-largest-odd-number-in-string](https://github.com/pushprajk07/Leetcode-Problem/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -128,6 +133,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/pushprajk07/Leetcode-Problem/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
